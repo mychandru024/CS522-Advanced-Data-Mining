@@ -1,0 +1,60 @@
+https://en.wikipedia.org/wiki/Chicago_Public_Schools	CPS
+http://en.wikipedia.org/wiki/Chicago_Public_Schools	2CPS
+https://en.wikipedia.org/wiki/Chicago_school_(sociology)	CS_Sociology
+http://en.wikipedia.org/wiki/Chicago_school_(sociology)	2CS_Sociology
+https://en.wikipedia.org/wiki/Chicago_school_(mathematical_analysis)	CS_Mathematics
+http://en.wikipedia.org/wiki/Chicago_school_(mathematical_analysis)	2CS_Mathematics
+https://en.wikipedia.org/wiki/Chicago_school_(literary_criticism)	CS_Fiction
+http://en.wikipedia.org/wiki/Chicago_school_(literary_criticism)	2CS_Fiction
+https://en.wikipedia.org/wiki/Chicago_school_(architecture)	CS_Architecture
+http://en.wikipedia.org/wiki/Chicago_school_(architecture)	2CS_Architecture
+https://en.wikipedia.org/wiki/Chicago_Architecture_Foundation	CS_CAF
+http://en.wikipedia.org/wiki/Chicago_Architecture_Foundation	2CS_CAF
+http://en.wikipedia.org/wiki/IIT_Institute_of_Design	CS_Design
+http://en.wikipedia.org/wiki/Chicago_school_of_economics	CS_Economics
+http://en.wikipedia.org/wiki/The_Chicago_School_of_Professional_Psychology	CS_Psychology
+http://en.wikipedia.org/wiki/Chicago_Math_and_Science_Academy	CS_Mathematics
+http://en.wikipedia.org/wiki/Loyola_University_Chicago_School_of_Law	CS_Law
+http://en.wikipedia.org/wiki/University_of_Chicago_Law_School	CS_Law
+http://en.wikipedia.org/wiki/University_of_Chicago_Institute_of_Politics	CS_Politics
+http://en.wikipedia.org/wiki/Prairie_School	CS_Architecture_Prairie
+http://en.wikipedia.org/wiki/University_of_Chicago_School_of_Social_Service_Administration	CS_Civics
+
+/Users/baciu/Douments/Wikifier/chicago_school_of_design	2CS_Design
+/Users/baciu/Douments/Wikifier/chicago_school_of_fiction	2CS_Fiction
+/Users/baciu/Douments/Wikifier/chicago_school_of_applied_and_normal_art	2CS_Art
+/Users/baciu/Douments/Wikifier/chicago_school_of_lip_reading	2CS_Lip
+/Users/baciu/Douments/Wikifier/chicago_school_of_music		2CS_Music
+/Users/baciu/Douments/Wikifier/chicago_school_of_osteopaty	2CS_Osteopaty
+/Users/baciu/Douments/Wikifier/chicago_school_of_sewing	2CS_Sewing
+/Users/baciu/Douments/Wikifier/chicago_school_of_art	2CS_Art
+/Users/baciu/Douments/Wikifier/chicago_school_of_expression	2CS_Expression
+/Users/baciu/Douments/Wikifier/chicago_school_of_elocution	2CS_Elocution
+/Users/baciu/Douments/Wikifier/chicago_school_of_oratory	2CS_Oratory
+/Users/baciu/Douments/Wikifier/chicago_school_of_civics	2CS_Civics
+/Users/baciu/Douments/Wikifier/chicago_school_of_dentistry	2CS_Dentistry
+/Users/baciu/Douments/Wikifier/chicago_school_of_normal_and_applied_art	2CS_Art
+/Users/baciu/Douments/Wikifier/chicago_school_of_hebrew	2CS_Hebrew
+/Users/baciu/Douments/Wikifier/chicago_school_of_anatomy	2CS_Anatomy
+/Users/baciu/Douments/Wikifier/chicago_school_of_arms	2CS_Arms
+/Users/baciu/Douments/Wikifier/chicago_school_of_domestic_science	2CS_DomesticScience
+/Users/baciu/Douments/Wikifier/chicago_school_of_science	2CS_Science
+/Users/baciu/Douments/Wikifier/chicago_school_of_sanitary instruction	2CS_Sanitary
+/Users/baciu/Douments/Wikifier/chicago_school_of_instruction	2CS_Instruction
+/Users/baciu/Douments/Wikifier/chicago_school_of_pharmacy	2CS_Pharmacy
+/Users/baciu/Douments/Wikifier/chicago_school_of_psychology	2CS_Psychology
+/Users/baciu/Douments/Wikifier/chicago_school_of_psycho-physiology	2CS_Psychology
+/Users/baciu/Douments/Wikifier/chicago_school_at_arms	2CS_Arms
+/Users/baciu/Douments/Wikifier/chicago_school_of_cutting	2CS_Cutting
+/Users/baciu/Douments/Wikifier/chicago_school_of_thought	2CS_Thought
+/Users/baciu/Douments/Wikifier/chicago_school_of_law	2CS_Law
+/Users/baciu/Douments/Wikifier/chicago_school_of_politics	2CS_Politics
+/Users/baciu/Douments/Wikifier/chicago_school_of_medicine	2CS_Medicine
+/Users/baciu/Douments/Wikifier/chicago_school_of_education	2CS_Education
+/Users/baciu/Douments/Wikifier/new_Chicago_school	2CS_NewSchool
+/Users/baciu/Douments/Wikifier/old_Chicago_school	2CS_OldSchool
+/Users/baciu/Douments/Wikifier/first_Chicago_school	2CS_FirstSchool
+/Users/baciu/Douments/Wikifier/second_Chicago_school	2CS_SecondSchool
+
+
+
